@@ -4,6 +4,7 @@ Jupyter Notebooks for experimenting with negative prompting with Stable Diffusio
 
 These notebooks include:
 
+- [3x3 Grid](sd_2_0_grid_3_x_3.ipynb): A notebook to generate images using Stable Diffusion 2.0 in a 3x3 grid using a cross of positive prompt additions and negative prompts/tokens.
 - [Wrong Image Generator](wrong_image_generator.ipynb): A notebook to generate synthetic "negative" images for training the `<wrong>` textual inversion token.
 
 ## Maintainer/Creator
