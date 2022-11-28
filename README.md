@@ -4,8 +4,8 @@ Jupyter Notebooks for experimenting with negative prompting with Stable Diffusio
 
 These notebooks include:
 
-- [SD 2.0 Base](sd_2_0_base.ipynb): A personal notebook for easy inference with Stable Diffusion 2.0 using diffusers, including textual inversion support (the `<wrong>` token is loaded by default), grid output, and individual image output.
-- [3x3 Grid](sd_2_0_grid_3x3.ipynb): A notebook to generate images using Stable Diffusion 2.0 in a 3x3 grid using a cross of positive prompt additions and negative prompts/tokens.
+- [SD 2.0 Base](sd_2_0_base.ipynb) ([Colab](https://colab.research.google.com/github/minimaxir/stable-diffusion-negative-prompt/blob/main/sd_2_0_base.ipynb)): A personal notebook for easy inference with Stable Diffusion 2.0 using diffusers, including textual inversion support (the `<wrong>` token is loaded by default), grid output, and individual image output.
+- [3x3 Grid](sd_2_0_grid_3x3.ipynb) ([Colab](https://colab.research.google.com/github/minimaxir/stable-diffusion-negative-prompt/blob/main/sd_2_0_grid_3x3.ipynb): A notebook to generate images using Stable Diffusion 2.0 in a 3x3 grid using a cross of positive prompt additions and negative prompts/tokens.
 - [Wrong Image Generator](wrong_image_generator.ipynb): A notebook to generate synthetic "negative" images for training the `<wrong>` textual inversion token.
 
 ## Maintainer/Creator
