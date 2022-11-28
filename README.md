@@ -1,6 +1,6 @@
 # Stable Diffusion 2.0 Negative Prompting
 
-Jupyter Notebooks for experimenting with negative prompting with Stable Diffusion 2.0. All these notebooks _should_ work in Colab (even with a K80 GPU).
+Jupyter Notebooks for experimenting with negative prompting with Stable Diffusion 2.0. All these notebooks have been confirmed to work in Colab (it may not work with a K80 GPU however).
 
 These notebooks include:
 
